@@ -33,6 +33,8 @@ public:
 	void takeDamage(int strength);
 	void heal();
 	void showStats();
+
+	~Character();
 };
 
 class Warrior : public Character {

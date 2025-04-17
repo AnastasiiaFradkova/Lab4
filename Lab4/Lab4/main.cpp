@@ -72,6 +72,9 @@ int main()
             cout << "You won!" << endl;
         }
 
+        delete player;
+        delete computer;
+
         string a;
         cout << "Would you like to continue? (y/n): ";
         cin >> a;

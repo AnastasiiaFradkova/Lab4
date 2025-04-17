@@ -1,2 +1,5 @@
 ﻿  Character.cpp
+  main.cpp
+C:\Anastasiia\Development\University\ООП\Lab4\Lab4\Lab4\main.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   Lab4.vcxproj -> C:\Anastasiia\Development\University\ООП\Lab4\Lab4\x64\Debug\Lab4.exe

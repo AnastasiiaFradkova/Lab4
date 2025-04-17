@@ -13,6 +13,8 @@ void Character::heal() {
 	cout << this->getName() << "'s health: " << health << endl;
 }
 
+Character::~Character() {}
+
 void Character::takeDamage(int strength) {
 	if (this->getBlessed() == true) {
 		cout << this->name << " is blessed. No damage." << endl;
